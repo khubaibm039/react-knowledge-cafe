@@ -13,11 +13,16 @@ function App() {
         setBookmarks(newBookmarks)
     }
 
-    const handleMarkAsRead = time => {
+
+    const handleMarkAsRead = (time, id) => {
         const newReadingTime = readingTime + time
         setReadingTime(newReadingTime)
+        // remove the read bookmark
 
+        const remainingBookmark = bookmarks.filter(bookmark => bookmark.id !== id)
+        setBookmarks(remainingBookmark)
     }
+
     return (
         <div className='container mx-auto'>
             <Header></Header>
