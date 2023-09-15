@@ -2,9 +2,9 @@
     {
         "id": 1,
         "cover": "https://i.ibb.co/71njyjt/2.png",
-        "title": "Book Title 1",
-        "author": "Author 1",
-        "author_img": "https://i.ibb.co/5hXgJd2/boy1.png",
+        "title": "A Love Story",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/ZT50xFM/boy1.png",
         "date": "2023-09-15",
         "reading_time": 120,
         "hash_tags": [
@@ -16,8 +16,8 @@
     {
         "id": 2,
         "cover": "https://i.ibb.co/DWGNXdY/1.jpg",
-        "title": "Book Title 2",
-        "author": "Author 2",
+        "title": "The Mystery of the Old Mansion",
+        "author": "Jane Doe",
         "author_img": "https://i.ibb.co/ftcGsBb/girl1.jpg",
         "date": "2023-09-16",
         "reading_time": 90,
@@ -30,8 +30,8 @@
     {
         "id": 3,
         "cover": "https://i.ibb.co/q1yPvVH/3.png",
-        "title": "Book Title 3",
-        "author": "Author 3",
+        "title": "The Galactic Odyssey",
+        "author": "David Johnson",
         "author_img": "https://i.ibb.co/PYh6647/boy2.jpg",
         "date": "2023-09-17",
         "reading_time": 180,
@@ -44,8 +44,8 @@
     {
         "id": 4,
         "cover": "https://i.ibb.co/z22bWjy/4.jpg",
-        "title": "Book Title 4",
-        "author": "Author 4",
+        "title": "The Enchanted Kingdom",
+        "author": "Emily White",
         "author_img": "https://i.ibb.co/G9crcb6/girl2.jpg",
         "date": "2023-09-18",
         "reading_time": 150,

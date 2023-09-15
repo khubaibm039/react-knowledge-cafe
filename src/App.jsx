@@ -6,15 +6,13 @@ import Header from './components/Header/Header'
 function App() {
 
     return (
-        <body className='container mx-auto'>
-
+        <div className='container mx-auto'>
             <Header></Header>
             <div className='md:flex'>
                 <Blogs></Blogs>
                 <Bookmarks></Bookmarks>
             </div>
-
-        </body>
+        </div>
     )
 }
 
