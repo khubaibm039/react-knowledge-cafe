@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/71njyjt/2.png",
+        "title": "Book Title 1",
+        "author": "Author 1",
+        "author_img": "https://i.ibb.co/5hXgJd2/boy1.png",
+        "date": "2023-09-15",
+        "reading_time": 120,
+        "hash_tags": [
+            "fiction",
+            "bestseller",
+            "adventure"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/DWGNXdY/1.jpg",
+        "title": "Book Title 2",
+        "author": "Author 2",
+        "author_img": "https://i.ibb.co/ftcGsBb/girl1.jpg",
+        "date": "2023-09-16",
+        "reading_time": 90,
+        "hash_tags": [
+            "romance",
+            "contemporary",
+            "love"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/q1yPvVH/3.png",
+        "title": "Book Title 3",
+        "author": "Author 3",
+        "author_img": "https://i.ibb.co/PYh6647/boy2.jpg",
+        "date": "2023-09-17",
+        "reading_time": 180,
+        "hash_tags": [
+            "mystery",
+            "thriller",
+            "crime"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/z22bWjy/4.jpg",
+        "title": "Book Title 4",
+        "author": "Author 4",
+        "author_img": "https://i.ibb.co/G9crcb6/girl2.jpg",
+        "date": "2023-09-18",
+        "reading_time": 150,
+        "hash_tags": [
+            "science fiction",
+            "space",
+            "exploration"
+        ]
+    }
+]
